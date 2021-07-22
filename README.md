@@ -1,6 +1,6 @@
 # Math-Quiz-in-decartian-coordinate-system
 
-##Introduction
+## Introduction
   This linear and quadratic function assessment system has been built with simple javascript canvas and php
   
 ## Use Xampp for deploy.
