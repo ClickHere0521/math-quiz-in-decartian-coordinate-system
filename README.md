@@ -9,3 +9,5 @@
 
 ## MySQL Supported
 need to execute the sql file
+
+If you like my work, please don't forget to ⭐
